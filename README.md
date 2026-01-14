@@ -29,7 +29,7 @@ A complete hardware-software solution that transforms any standard infrared remo
 ### **1. Hardware Setup**
 ```cpp
 // Connect IR receiver to Arduino:
-// VCC → 5V
+// VCC → 3.3V
 // GND → GND
 // OUT → Pin 53
 ```
